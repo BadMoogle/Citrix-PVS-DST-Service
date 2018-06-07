@@ -1,0 +1,8 @@
+d:\Users\dharper\documents\visual studio 2015\Projects\PVSDSTFix\PVSDSTFix\bin\Release\PVSDSTFix.exe.config
+d:\Users\dharper\documents\visual studio 2015\Projects\PVSDSTFix\PVSDSTFix\bin\Release\PVSDSTFix.exe
+d:\Users\dharper\documents\visual studio 2015\Projects\PVSDSTFix\PVSDSTFix\bin\Release\PVSDSTFix.pdb
+d:\Users\dharper\documents\visual studio 2015\Projects\PVSDSTFix\PVSDSTFix\obj\Release\PVSDSTFix.exe
+d:\Users\dharper\documents\visual studio 2015\Projects\PVSDSTFix\PVSDSTFix\obj\Release\PVSDSTFix.pdb
+d:\Users\dharper\documents\visual studio 2015\Projects\PVSDSTFix\PVSDSTFix\obj\Release\PVSDSTFix.csprojResolveAssemblyReference.cache
+d:\Users\dharper\documents\visual studio 2015\Projects\PVSDSTFix\PVSDSTFix\obj\Release\PVSDSTFix.ProjectInstaller.resources
+d:\Users\dharper\documents\visual studio 2015\Projects\PVSDSTFix\PVSDSTFix\obj\Release\PVSDSTFix.csproj.GenerateResource.Cache
